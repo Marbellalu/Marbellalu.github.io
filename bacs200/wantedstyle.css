@@ -1,0 +1,23 @@
+body {
+  background-color: darkgray;
+  text-align: center;
+}
+
+h1 { 
+  color: deeppink;
+  background-color: black;
+  font-family:"Cambria";
+  font-size: 70px;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-family: "Cambria";
+  font-size: 100 px;
+  text-align: center;
+
+ul { 
+  color: darkgray;
+  font-family:"Times New Roman";
+}
