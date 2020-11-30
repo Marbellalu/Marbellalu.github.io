@@ -9,7 +9,7 @@
 
 .topnav a {
     float: left;
-    color: red;
+    color: darkblue;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -17,7 +17,7 @@
 }
 
 .topnav a:hover {
-    background-color: cornflowerblue;
+    background-color: #ddd;
     color: whitesmoke;
 }
 
@@ -29,9 +29,9 @@
 /*headings*/
 h1 {
     text-align: center;
-    font-kerning: auto;
+    font-kerning: normal;
     letter-spacing: inherit;
-    color: black;
+    color: red;
     text-transform: capitalize;
 }
 
@@ -39,10 +39,10 @@ h3 {
     text-align: center;
     font-kerning: 10px;
     letter-spacing: inherit;
-    color: black;
+    color: darkblue;
 }
 
 img {
     align-content: space-around flex-start;
-    border: double 10px black;
+    border: double 10px darkblue;
 }
